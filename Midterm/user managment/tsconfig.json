@@ -9,7 +9,7 @@
     "allowSyntheticDefaultImports": true,
     "target": "ES2020",
     "sourceMap": true,
-    "outDir": "./dist",
+    //"outDir": "./dist",
     "strict": true,
     "incremental": true,
     "skipLibCheck": true,
